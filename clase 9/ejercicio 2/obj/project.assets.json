@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\aleja\\OneDrive\\Documentos\\practica 2\\practicas-\\clase 6\\ejercicio 10\\ejercicio 10.csproj",
-      "projectName": "ejercicio 10",
-      "projectPath": "C:\\Users\\aleja\\OneDrive\\Documentos\\practica 2\\practicas-\\clase 6\\ejercicio 10\\ejercicio 10.csproj",
+      "projectUniqueName": "C:\\Users\\aleja\\OneDrive\\Documentos\\clase 9\\ejercicio 2\\ejercicio 2.csproj",
+      "projectName": "ejercicio 2",
+      "projectPath": "C:\\Users\\aleja\\OneDrive\\Documentos\\clase 9\\ejercicio 2\\ejercicio 2.csproj",
       "packagesPath": "C:\\Users\\aleja\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\aleja\\OneDrive\\Documentos\\practica 2\\practicas-\\clase 6\\ejercicio 10\\obj\\",
+      "outputPath": "C:\\Users\\aleja\\OneDrive\\Documentos\\clase 9\\ejercicio 2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\aleja\\AppData\\Roaming\\NuGet\\NuGet.Config",
